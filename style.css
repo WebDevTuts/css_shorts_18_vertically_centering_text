@@ -27,6 +27,10 @@ aside {
   display: table;
 }
 
+aside div {
+  display: table-cell;
+}
+
 aside p {
 	font-size: 1.3em;
 	letter-spacing: 6px;
