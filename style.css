@@ -48,7 +48,12 @@ aside p:last-of-type {
 
 @media screen and (max-width: 600px) {
 
-
+  aside div p { font-size: 1.1em; }
+  aside div p:last-of-type {
+    font-size: 1.8em;
+    margin-top: -2px;
+    letter-spacing: 7px;
+  }
 
 }
 
